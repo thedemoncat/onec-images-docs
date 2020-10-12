@@ -5,7 +5,7 @@
 
 - [Onec-base](https://github.com/TheDemonCat/onec-base) - Базовый образ. Предназначен для дальнейшей установки платформы. В нем установливаются все зависимости, согласно документации
 
-- [Onec-full](https://github.com/TheDemonCat/onec-full) - Образ с установленными всеми компанентами платформы 1С:Предприятие. Основывается на onec-base.
+- [Onec-full](https://github.com/TheDemonCat/onec-full) - Образ с установленными всеми компонентами платформы 1С:Предприятие. Основывается на onec-base.
 
 - [Onec-server](https://github.com/TheDemonCat/onec-server.git) - Образ с установленным и запущенным сервером 1С:Предприятие. Основывается на onec-base.
 
