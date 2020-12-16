@@ -7,11 +7,11 @@
 
 - [Onec-full](https://github.com/TheDemonCat/onec-full) - Образ с установленными всеми компонентами платформы 1С:Предприятие. Основывается на onec-base.
 
-- [Onec-server](https://github.com/TheDemonCat/onec-server.git) - Образ с установленным и запущенным сервером 1С:Предприятие. Основывается на onec-base.
+- [Onec-server](https://github.com/TheDemonCat/onec-server) - Образ с установленным и запущенным сервером 1С:Предприятие. Основывается на onec-base.
 
-- [Onec-client](https://github.com/TheDemonCat/onec-full.git) - Образ с установленным клиентом сервером 1С:Предприятие и графическим сервером. Основывается на onec-full.
+- [Onec-client](https://github.com/TheDemonCat/onec-client) - Образ с установленным клиентом сервером 1С:Предприятие и графическим сервером. Основывается на onec-full.
 
-- [onec-edt](https://github.com/TheDemonCat/onec-edt.git) - Образ с сервером 1С:Предприятие и EDT. Основывается на onec-base.
+- [onec-edt](https://github.com/TheDemonCat/onec-edt) - Образ с сервером 1С:Предприятие и EDT. Основывается на onec-base.
 
 - [Onec-instance](https://github.com/TheDemonCat/onec-instance) - Docker-compose - запуск сервера 1С Предприятия на базе OS Linux. Работоспособность образа была проверена на Ubuntu 18. При развертывании требуется права администратора, для записи в файл /etc/hosts. Так же была проверена работоспособность образа на Windows10, но с обязательным использованием [WSL2](https://docs.microsoft.com/ru-ru/windows/wsl/wsl2-install)
 
