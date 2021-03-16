@@ -15,7 +15,7 @@
 
     Образ с установленным и запущенным сервером 1С:Предприятие. Основывается на onec-base.
 
-- ### [Onec-client](https://github.com/TheDemonCat/onec-full.git)
+- ### [Onec-client](https://github.com/TheDemonCat/onec-client.git) [![CI](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml)
 
     Образ с установленным клиентом сервером 1С:Предприятие и графическим сервером. Основывается на onec-full.
 
