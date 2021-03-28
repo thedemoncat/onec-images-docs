@@ -21,7 +21,7 @@
 
 - ### [onec-edt](https://github.com/TheDemonCat/onec-edt.git)
     
-    Образ с сервером 1С:Предприятие и EDT. Основывается на onec-base.
+   WIP: Образ с сервером 1С:Предприятие и EDT. Основывается на onec-base.
 
 - ### [Onec-instance](https://github.com/TheDemonCat/onec-instance) 
 
