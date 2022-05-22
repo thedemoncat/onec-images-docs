@@ -15,6 +15,7 @@
 - ###  [Onec-server](https://github.com/TheDemonCat/onec-server.git) [![Build Images - 8.3.17.1851](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml)
 
     Образ с установленным и запущенным сервером 1С:Предприятие. Основывается на onec-base.
+    Реализована поддержка версии платформы 8.3.20 и выше
 
 - ### [Onec-client](https://github.com/TheDemonCat/onec-client.git) [![CI](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml)
 
