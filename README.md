@@ -10,6 +10,7 @@
 - ### [Onec-full](https://github.com/TheDemonCat/onec-full) [![CI](https://github.com/TheDemonCat/onec-full/actions/workflows/blank.yml/badge.svg)](https://github.com/TheDemonCat/onec-full/actions/workflows/blank.yml)
     
      Образ с установленными всеми компонентами платформы 1С:Предприятие. Основывается на onec-base.
+    Реализована поддержка версии платформы 8.3.20 и выше
 
 - ###  [Onec-server](https://github.com/TheDemonCat/onec-server.git) [![Build Images - 8.3.17.1851](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml)
 
