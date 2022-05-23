@@ -19,7 +19,8 @@
 
 - ### [Onec-client](https://github.com/TheDemonCat/onec-client.git) [![CI](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml)
 
-    Образ с установленным клиентом сервером 1С:Предприятие и графическим сервером. Основывается на onec-full.
+    Образ с установленным клиентом сервером 1С:Предприятие и графическим сервером.
+       Реализована поддержка версии платформы 8.3.20 и выше
 
 - ### [onec-edt](https://github.com/TheDemonCat/onec-edt.git)
     
