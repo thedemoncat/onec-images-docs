@@ -2,6 +2,15 @@
 
 ВАЖНО: В данных репозитариях нет бинарных файлов дистрибутивов, а только инструменты для скачивания их с сайта и сборки в образы. Для их использования вам в любом случае придется использовать учетную запись к сайту https://users.v8.1c.ru/ и обладающую доступом к скачиванию соответствующих дистрибутивов
 
+### Сборка образов проверена на версиях:
+
+```
+8.3.16.1659
+8.3.17.1851
+8.3.18.1363
+8.3.18.1483
+8.3.21.1302
+```
 
 -  ### [Onec-base](https://github.com/TheDemonCat/onec-base) [![Docker Image CI](https://github.com/TheDemonCat/onec-base/actions/workflows/docker-image.yml/badge.svg)](https://github.com/TheDemonCat/onec-base/actions/workflows/docker-image.yml)
 
