@@ -41,7 +41,7 @@
 
 ## Скачивание дистрибутивов с https://users.v8.1c.ru/
 
-- [Oneget](https://github.com/v8platform/oneget) [![Docker Image CI](https://github.com/v8platform/oneget/actions/workflows/docker-image.yml/badge.svg)] - Приложение для скачивания релизов с users.1c.v8.ru. 
+- [Oneget](https://github.com/v8platform/oneget) [![Docker Image CI](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml/badge.svg)] - Приложение для скачивания релизов с users.1c.v8.ru. 
 
 ## Прочие образа
 
