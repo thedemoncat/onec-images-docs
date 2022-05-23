@@ -41,7 +41,9 @@
 
 ## Скачивание дистрибутивов с https://users.v8.1c.ru/
 
-- [Oneget](https://github.com/v8platform/oneget) [![Build oneget](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml/badge.svg)](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml) - Приложение для скачивания релизов с users.1c.v8.ru. 
+- [Oneget](https://github.com/v8platform/oneget) [![Build oneget](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml/badge.svg)](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml)
+
+ Приложение для скачивания релизов с users.1c.v8.ru. 
 
 ## Прочие образа
 
