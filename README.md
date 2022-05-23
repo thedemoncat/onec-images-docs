@@ -12,21 +12,21 @@
 8.3.21.1302
 ```
 
--  ### [Onec-base](https://github.com/TheDemonCat/onec-base) [![Docker Image CI](https://github.com/TheDemonCat/onec-base/actions/workflows/docker-image.yml/badge.svg)](https://github.com/TheDemonCat/onec-base/actions/workflows/docker-image.yml)
+-  ### [Onec-base](https://github.com/TheDemonCat/onec-base) [![Build onec base](https://github.com/TheDemonCat/onec-base/actions/workflows/docker-image.yml/badge.svg)](https://github.com/TheDemonCat/onec-base/actions/workflows/docker-image.yml)
 
     Базовый образ. Предназначен для дальнейшей установки платформы. В нем устанавливаются все зависимости, согласно документации. 
 
-- ### [Onec-full](https://github.com/TheDemonCat/onec-full) [![CI](https://github.com/TheDemonCat/onec-full/actions/workflows/blank.yml/badge.svg)](https://github.com/TheDemonCat/onec-full/actions/workflows/blank.yml)
+- ### [Onec-full](https://github.com/TheDemonCat/onec-full) [![Build onec full](https://github.com/TheDemonCat/onec-full/actions/workflows/blank.yml/badge.svg)](https://github.com/TheDemonCat/onec-full/actions/workflows/blank.yml)
     
      Образ с установленными всеми компонентами платформы 1С:Предприятие. Основывается на onec-base.
     Реализована поддержка версии платформы 8.3.20 и выше
 
-- ###  [Onec-server](https://github.com/TheDemonCat/onec-server.git) [![Build Images - 8.3.17.1851](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml)
+- ###  [Onec-server](https://github.com/TheDemonCat/onec-server.git) [![Build onec server](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-server/actions/workflows/ci.yaml)
 
     Образ с установленным и запущенным сервером 1С:Предприятие. Основывается на onec-base.
     Реализована поддержка версии платформы 8.3.20 и выше
 
-- ### [Onec-client](https://github.com/TheDemonCat/onec-client.git) [![CI](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml)
+- ### [Onec-client](https://github.com/TheDemonCat/onec-client.git) [![Build onec client](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml/badge.svg)](https://github.com/TheDemonCat/onec-client/actions/workflows/ci.yaml)
 
     Образ с установленным клиентом сервером 1С:Предприятие и графическим сервером.
        Реализована поддержка версии платформы 8.3.20 и выше
@@ -41,7 +41,7 @@
 
 ## Скачивание дистрибутивов с https://users.v8.1c.ru/
 
-- [Oneget](https://github.com/v8platform/oneget) [![Docker Image CI](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml/badge.svg)] - Приложение для скачивания релизов с users.1c.v8.ru. 
+- [Oneget](https://github.com/v8platform/oneget) [![Build oneget](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml/badge.svg)](https://github.com/v8platform/oneget/actions/workflows/releaser.yaml) - Приложение для скачивания релизов с users.1c.v8.ru. 
 
 ## Прочие образа
 
