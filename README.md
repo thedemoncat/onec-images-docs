@@ -41,7 +41,7 @@
 
 ## Скачивание дистрибутивов с https://users.v8.1c.ru/
 
-- [Downloader](https://github.com/TheDemonCat/onec_downloader) - Скрипт скачивания релизов с users.1c.v8.ru. Основан на [этом](https://github.com/Infactum/onec_dock/blob/master/download.sh) скрипте. Так же часть идей позаимствованна от [сюда](https://github.com/jugatsu/onec-docker/blob/master/scripts/download.sh) 
+- [Oneget](https://github.com/v8platform/oneget) [![Docker Image CI](https://github.com/v8platform/oneget/actions/workflows/docker-image.yml/badge.svg)] - Приложение для скачивания релизов с users.1c.v8.ru. 
 
 ## Прочие образа
 
